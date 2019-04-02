@@ -28,7 +28,7 @@ Each turn:
 
 2.Correct match
 
-<img src="/delo141/fend-project-memory-game-master/blob/master/img/matched.png" width="450">
+<img src="fend-project-memory-game-master/img/Result.png width="450">
 
 3.Completed board
 
