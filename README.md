@@ -24,7 +24,7 @@ Each turn:
 
 1.Starter Game
 
-<img src="/img/start.png" width="450">
+<img src="https://github.com/username/repository/blob/master/img/start.png" width="450">
 
 2.Correct match
 
