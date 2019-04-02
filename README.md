@@ -27,8 +27,8 @@ Each turn:
 <img src="https://raw.githubusercontent.com/delo141/fend-project-memory-game-master/master/img/Start.png" width="450">
 
 2.Correct match
+<img src="https://raw.githubusercontent.com/delo141/fend-project-memory-game-master/master/img/Matched.png" width="450">
 
-<img src="https://raw.githubusercontent.com/delo141/fend-project-memory-game-master/master/img/Matched.png width="450">
 
 3.Completed board
 
