@@ -23,16 +23,16 @@ Each turn:
 * The game ends once all cards have been correctly matched.
 
 1.Starter Game
-
-<img src="/img/start" width="450">
+src="/delo141/fend-project-memory-game-master/blob/master/img/Start.png?raw=true"
+<img src="/delo141/fend-project-memory-game-master/blob/master/img/start.png" width="450">
 
 2.Correct match
 
-<img src="/img/matched.png" width="450">
+<img src="/delo141/fend-project-memory-game-master/blob/master/img/matched.png" width="450">
 
 3.Completed board
 
-<img src="/img/result.png" width="450">
+<img src="/delo141/fend-project-memory-game-master/blob/master/img/result.png" width="450">
 
 ## Features
 * **Congratulations Popup :** When a user wins the game, a modal appears to congratulate the player and ask if they want to play again. It should also tell the user how much time it took to win the game, and what the star rating was.
