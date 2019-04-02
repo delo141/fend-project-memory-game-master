@@ -23,8 +23,8 @@ Each turn:
 * The game ends once all cards have been correctly matched.
 
 1.Starter Game
-https
-<img src="/delo141/fend-project-memory-game-master/blob/master/img/Start.png?raw=true" width="450">
+
+<img src="https://raw.githubusercontent.com/delo141/fend-project-memory-game-master/master/img/Start.png" width="450">
 
 2.Correct match
 
